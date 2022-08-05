@@ -1,5 +1,7 @@
 # dwh-coding-challenge
 
+author : Ogi Guntara
+
 this program is tool to visualize historical table view of user banking activity, it visualize table as follows :
   1. Accounts
   2. Savings Accounts
