@@ -11,3 +11,9 @@ How it works :
   1. first of all, it will read all over json data at folder 'data' and stored them in to list of dictionaries
   2. then the list is converted in to data frame using pandas
   3. with keep using pandas, the raw dataframe manipulated in to desire outcomes to visualize (print std)
+
+How to use it :
+  1. unzip file to get data set and scripts : unzip dwh-coding-challenge.zip
+  2. make sure your current directory is in to program folder : cd dwh-coding-challenge
+  3. build docker image : docker build -t 'python-dwh-challenge' .
+  4. run docker : docker run -ti python-dwh-challenge
